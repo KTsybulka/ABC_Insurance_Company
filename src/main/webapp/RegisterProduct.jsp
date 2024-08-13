@@ -114,7 +114,11 @@
         try {
             // Connect to the database
             Class.forName("com.mysql.cj.jdbc.Driver");
+
             conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/insurance", "root", "root");
+
+            conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/insurance", "root", "7400");
+
 
             String query = "SELECT product_name FROM product";
             stmt = conn.createStatement();

@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>J2EE_InsuranceProtectionPlan</name>
+=======
+	<name>ABC_Insurance_Company</name>
+>>>>>>> 6a72e592b781de032c10471b2454902d3667d8fa
 	<comment></comment>
 	<projects>
 	</projects>

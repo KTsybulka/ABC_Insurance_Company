@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+<<<<<<< HEAD
     <wb-module deploy-name="J2EE_InsuranceProtectionPlan">
         <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
         <property name="context-root" value="J2EE_InsuranceProtectionPlan"/>
         <property name="java-output-path" value="/J2EE_InsuranceProtectionPlan/build/classes"/>
+=======
+    <wb-module deploy-name="ABC_Insurance_Company">
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <property name="context-root" value="ABC_Insurance_Company"/>
+        <property name="java-output-path" value="/ABC_Insurance_Company/build/classes"/>
+>>>>>>> 6a72e592b781de032c10471b2454902d3667d8fa
     </wb-module>
 </project-modules>
